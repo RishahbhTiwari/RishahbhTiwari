@@ -2,16 +2,8 @@
 
 Welcome to my GitHub!
 
-I'm an engineer-turned-aspiring "Data Scientist", currently deep-diving into the world of Machine Learning, Deep Learning, and NLP (Natural Language Processing) with a sharp focus on building job-ready skills.
-
-
-🚀 My Journey
-
-After working for 2 years as a "Project Engineer" at Nuberg Engineering Ltd — where I led the execution of a turnkey 80 TPD Calcium Chloride plant in Oman — I made a bold move.
-
-🔄 I pivoted from industrial project execution to solving problems with data.
-
-Now, I’m channeling my analytical mindset, structured execution, and curiosity into "Data Science" — mastering everything from foundational statistics to advanced AI techniques, with the ambition to work in real-world data-driven roles.
+I'm an engineer-turned-aspiring "Data Scientist", currently deep-diving into the world of Machine Learning, Deep Learning, and NLP (Natural Language Processing).
+Now, I’m channeling my analytical mindset, structured execution, and curiosity into "Data Science" — mastering everything from foundational statistics to advanced AI techniques.
 
 
 📚 What I’m Currently Learning
@@ -72,6 +64,6 @@ I now apply these strengths to data pipelines, model building, and analytics sto
 
 I’m actively seeking "Data Analyst" and "Data Scientist" opportunities where I can grow, contribute, and apply what I’m building here.
 
-- 📧 Rishabh.tiw1020@gmail.com
+- 📧 rishabh.tiw1020@gmail.com
 
 Thanks for checking out my work — and if you're on a similar journey, feel free to reach out. Let’s grow together. 🚀
